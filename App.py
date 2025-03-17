@@ -158,7 +158,7 @@ st.markdown(
 
 # Streamlit App Title
 st.write("👈 Please upload a dataset and ask your question about it.")
-st.write("⚠️ Ensure personally identifiable (PI) or sensitive information is included in the uploaded datasets ⚠️")
+st.write("⚠️ Ensure personally identifiable (PI) or sensitive information is not included in the uploaded datasets ⚠️")
  
 # Sidebar for File Upload
 

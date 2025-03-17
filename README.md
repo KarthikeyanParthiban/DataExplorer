@@ -18,6 +18,7 @@ This web application enables users to upload datasets (CSV/XLSX) and explore the
    OpenRouter API
 
 ## Disclaimer
-To use this application, an OpenRouter API key is required. Users must obtain their own API key and configure it within the application settings.
+- To use this application, an OpenRouter API key is required. Users must obtain their own API key and configure it within the application settings.
+- Users should ensure that no personally identifiable (PI) or sensitive information is included in the uploaded datasets. The responsibility for data privacy and compliance remains with the user.
 
 This project aims to simplify AI-driven data analysis, making it accessible to a broader audience without requiring programming expertise. Contributions and feedback are welcome.

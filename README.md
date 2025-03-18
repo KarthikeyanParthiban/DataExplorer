@@ -1,4 +1,4 @@
-# Data Explorer
+# AI Data Explorer
 This web application enables users to upload datasets (CSV/XLSX) and explore their data using AI models via the OpenRouter API. Built with Streamlit and Python, it provides an intuitive, code-free experience for users to gain insights from their data efficiently.
 
 ## Features
